@@ -1,0 +1,4 @@
+
+# /.vim/bundle内のプラグインを無視する
+.vim/bundle
+
